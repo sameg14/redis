@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/htdocs/redis"},"/vagrant":{"guestpath":"/vagrant","hostpath":"/htdocs/redis"}}}
